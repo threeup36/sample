@@ -1,0 +1,172 @@
+body{
+    font-family: "Avenir Next";
+}
+
+li{
+    list-style: none;
+    padding: 10px;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-family: serif;
+    width: 600px;
+    height: 60px;
+    background-color: rgb(237, 240, 222);
+}
+
+
+h2{
+    height: 60px;
+    font-size: 30px;
+}
+
+
+
+p{
+    color:rgba(0, 0, 0, 0.779)
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.selecred{
+    color:rgb(178, 150, 150);
+}
+
+
+
+.header{
+    background-color: rgb(44, 179, 161);
+    color: rgb(255, 255, 255);
+    height: 100px;
+}
+
+.header-logo{
+    float: left;
+    font-size: 25px;
+    padding: 30px 100px
+}
+
+.header-list li {
+    float: left;
+    padding: 37px 50px;
+    color:rgb(255, 255, 255)
+}
+
+
+
+.main{
+    background-color: rgb(250, 249, 241);
+    height: 2200px;
+    padding: 100px 300px;
+}
+
+.copy-container h1 {
+    font-size: 40px;
+}
+
+.copy-container h2 {
+    font-size: 35px;
+}
+
+.copy-container span{
+    color:rgb(32, 100, 226)
+}
+
+
+.contents {
+    height: 400px;
+}
+
+
+.section-title {
+    border-bottom: 2px solid #4b5255;
+    font-size: 25px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+
+
+
+.contents-title {
+    border-bottom: 35px solid #14a6f5;
+}
+
+.contents-item {
+    float: left;
+    margin: 35px;
+}
+
+.contents-item p {
+    font-size: 20px;
+    margin: 30px 30px;
+}
+
+.contents-form {
+    padding-top: 50px;
+}
+
+
+
+.logo1 {
+    border: 2px solid #333;
+    margin: 50px 30px;
+    padding: 30px;
+}
+
+.logo2 {
+    border-bottom: 1px solid #333;
+    padding: 10px;
+    margin: 20px;
+}
+
+.contact-form {
+    padding-top: 40px;
+}
+
+input, textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #14a6f5;
+}
+
+.contact-submit {
+    background-color: #dee7ec;
+    color: #5e6a70;
+}
+
+.footer{
+    background-color: rgb(17, 66, 66);
+    color:rgb(255, 255, 255);
+    height: 80px;
+    padding: 30px;
+}
+
+.footer-logo {
+    float: left;
+    font-size: 25px;
+    padding: 25px;
+}
+
+.footer-list {
+    float: right;
+}
+
+.footer-list li {
+    float: left;
+    padding: 20px 50px;
+    padding-bottom: 10px;
+}
+
+span{
+    color:rgb(32, 100, 226)
+}
